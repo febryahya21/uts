@@ -9,7 +9,5 @@ Cara Instalasi
    $username = "root";		
    $password = "";		
    $database_name = "olshop";	
-6.Buka browser dan jalankan webnya dengan perintah 
-	localhost/shafiyyahfashion 		---> akses frontend
-	localhost/shafiyyahfashion/adminpages	---> untuk akses admin
-		username & pass = admin
+6.Buka browser 
+7.Selesai
