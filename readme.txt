@@ -3,7 +3,7 @@ Cara Instalasi
 2. Copy ke folder xampp/htdocs
 3. Jalankan xampp
 4. Buat database dengan nama "olshop", kemudian import database olshop.sql yang ada di dalam folder database pada folder
-   shafiyyahfashion ini.
+  febryahyafashion ini.
 5. Setting file koneksi.php yang terletak pada folder lib.
    $host = "localhost";
    $username = "root";		
