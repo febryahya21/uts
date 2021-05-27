@@ -122,6 +122,7 @@ for($i=0;$i<$jml;$i++){
 			<div class="twelve columns"><h2>Hitung Ongkos Kirim</h2></div>
 		</div>
 		<?php 
+		error_reporting (E_ALL ^ E_WARNING || E_NOTICE);
 		$nama = $_POST['nama'];
 		$email = $_POST['email'];
 		$telpon = $_POST['telpon'];

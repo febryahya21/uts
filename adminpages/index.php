@@ -7,7 +7,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
-    <title>Shafiyyah Fashion | Cantik & Menawan</title>
+    <title>Febryahya Fashion | Cantik & Menawan</title>
 
     <!-- Bootstrap -->
     <link href="../assets/admin/vendors/bootstrap/dist/css/bootstrap.min.css" rel="stylesheet">
@@ -53,8 +53,8 @@
                 <br />
 
                 <div>
-                  <h1><i class="fa fa-user"></i> Shafiyyah Fashion</h1>
-                  <p>©2016 All Rights Reserved. Shafiyyah Fashion. Privacy and Terms</p>
+                  <h1><i class="fa fa-user"></i>Febryahya Fashion</h1>
+                  <p>ï¿½2021 All Rights Reserved. Febryahya Fashion. Privacy and Terms</p>
                 </div>
               </div>
             </form>
